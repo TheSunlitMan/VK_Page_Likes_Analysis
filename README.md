@@ -30,11 +30,13 @@
 
 ##  Структура проекта
 
+```
 VK_Likes_Analysis/
-├──  VK_Analysis.ipynb          # Основной файл анализа
-├──  requirements.txt           # Зависимости проекта  
-├──  README.md                  # Документация
-├──  .gitignore                 # Исключаемые файлы
-└──  data/                      # Папка с данными (локально)
-    └──  vk_user.csv           # Исходные данные
+├── VK_Analysis.ipynb
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── data/
+    └── vk_user.csv
+```
 
